@@ -1,0 +1,163 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/prinzpiuz/System-Scripts/commit/af8ff6c8db6aada6f1d92cfcfc294fb6c19d069d\"><strong>a</strong>f8ff6c8db6aada6f1d92cfcfc294fb6c19d069d</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/prinzpiuz/prinzpiuz.github.io/commit/abbbeae06985995342b5927828639d01ba4196e1\"><strong>ab</strong>bbeae06985995342b5927828639d01ba4196e1</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/354d6f3dc799500bdf6f8fe19bf3d69f72690c4f\">354d6f3</a>: chore: pre-commit fixes",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/9834c14f9a2655ace0e490dc53edad185008e3bc\">9834c14</a>\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/10bdd5f2a0107444257493863f64d17d2780f61e\">10bdd5f</a>\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/fef8139125e4499b4d0bc107f6238d708c27eb14\">fef8139</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/commit/212b1ceee058ddca0650ea44651a6b0d2b71b026\">212b1ce</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/commit/b2fb54a3f6ccf933870df3f0b08f8a8224297692\">b2fb54a</a>\n- <a href=\"https://github.com/prinzpiuz/Stone-Paper-Scissor/commit/fea080fbd23a515f92c1b8c65513be535119ee94\">fea080f</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/5aafd32e22dec08f81ef8900abcfa9c18817e266\">5aafd32</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"from\".",
+    "body": "My favorite commit message words are:\n\n1. from (used 289 times)\n2. merge (used 232 times)\n3. pull (used 214 times)\n4. request (used 214 times)\n5. updated (used 161 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/2dbb15d59af51f86a2cfd2c806cbcb2f081fc71c\">2dbb15d</a>: fix(home): handled case of connection termination while comming to home page\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/4adaa73e0889c48a9c576d94fa595ac941aa5fd4\">4adaa73</a>: fix(app service): bugs in app provider fixed",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/c48b23faed02fe2956ddbec6dce7306f8eeb1292\">c48b23f</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/commit/e85cf2dd0ee7dee32dfce59683990fae1510b561\">e85cf2d</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/prinzpiuz/MSM/issues/24\">#24</a>: Implementing Wake on lan ",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/austingebauer/devise/issues/18\">#18</a>: Support for google analytics 4\n- <a href=\"https://github.com/TerminalStudio/dartssh2/issues/73\">#73</a>: How can we overcome SSHChannelOpenError(2: open failed) error? \n- <a href=\"https://github.com/subosito/flutter-action/issues/255\">#255</a>: Build failing with error called \"Your project requires a newer version of the Kotlin Gradle plugin.\"",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/arduino/Arduino/pull/6864\">#6864</a>: Ide 1.9.x beta",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/6a9346225dbc4f6fa2550254e9ade6ee13b1c8fe\">6a93462</a>\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/c6db56e13745fafae01b4303b3648e99443f37b0\">c6db56e</a>\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/fd5059fc0f4a480a60cf720e27f41c1020d16f04\">fd5059f</a>\n- <a href=\"https://github.com/prinzpiuz/MSM/commit/d75cce23d92d695585f2d5b03d3187e51f8f0175\">d75cce2</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "star-gazer",
+    "tier": 0,
+    "desc": "I'm a star gazer!",
+    "body": "I've starred over 1000 repositories!",
+    "image": "https://my-badges.github.io/my-badges/star-gazer.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/prinzpiuz/MSM\">prinzpiuz/MSM: ★29</a>\n* <a href=\"https://github.com/prinzpiuz/Stone-Paper-Scissor\">prinzpiuz/Stone-Paper-Scissor: ★28</a>\n* <a href=\"https://github.com/prinzpiuz/RailwayStatusBot\">prinzpiuz/RailwayStatusBot: ★13</a>\n* <a href=\"https://github.com/prinzpiuz/django_update_checker\">prinzpiuz/django_update_checker: ★7</a>\n* <a href=\"https://github.com/prinzpiuz/prinzpiuz.github.io\">prinzpiuz/prinzpiuz.github.io: ★3</a>\n* <a href=\"https://github.com/prinzpiuz/Media-Server-Manager\">prinzpiuz/Media-Server-Manager: ★3</a>\n* <a href=\"https://github.com/prinzpiuz/cabot_alert_msteams\">prinzpiuz/cabot_alert_msteams: ★3</a>\n* <a href=\"https://github.com/prinzpiuz/prinzpiuz.in\">prinzpiuz/prinzpiuz.in: ★2</a>\n* <a href=\"https://github.com/prinzpiuz/OpenTasky\">prinzpiuz/OpenTasky: ★2</a>\n* <a href=\"https://github.com/prinzpiuz/myWebPage\">prinzpiuz/myWebPage: ★2</a>\n* <a href=\"https://github.com/prinzpiuz/HackerRank-Solutions\">prinzpiuz/HackerRank-Solutions: ★2</a>\n* <a href=\"https://github.com/prinzpiuz/Anonymous-Blog\">prinzpiuz/Anonymous-Blog: ★2</a>\n* <a href=\"https://github.com/prinzpiuz/System-Scripts\">prinzpiuz/System-Scripts: ★1</a>\n* <a href=\"https://github.com/prinzpiuz/scrapy_learning\">prinzpiuz/scrapy_learning: ★1</a>\n* <a href=\"https://github.com/prinzpiuz/prinzpiuz\">prinzpiuz/prinzpiuz: ★1</a>\n* <a href=\"https://github.com/prinzpiuz/myScripts\">prinzpiuz/myScripts: ★1</a>\n* <a href=\"https://github.com/prinzpiuz/Dynamic-speed-governer\">prinzpiuz/Dynamic-speed-governer: ★1</a>\n* <a href=\"https://github.com/prinzpiuz/Druv-Setup\">prinzpiuz/Druv-Setup: ★1</a>\n* <a href=\"https://github.com/prinzpiuz/dotfiles\">prinzpiuz/dotfiles: ★1</a>\n* <a href=\"https://github.com/prinzpiuz/BloTils\">prinzpiuz/BloTils: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/prinzpiuz/MSM/issues/42\">#42</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/pull/23\">#23</a>: removed trailing space remover\n- <a href=\"https://github.com/prinzpiuz/MSM/pull/111\">#111</a>: ci(changelog): added changelog generator\n- <a href=\"https://github.com/prinzpiuz/MSM/pull/126\">#126</a>: Prince/116 version upgrade\n- <a href=\"https://github.com/prinzpiuz/BloTils/pull/2\">#2</a>: Database related and other minor changes\n- <a href=\"https://github.com/prinzpiuz/BloTils/pull/3\">#3</a>: feat(db): create DB and run migrations",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz/commit/c661e3047408739832aecbc5c9a0ec50851ab8f8\">c661e30</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz/commit/53ab426ebbe72a349c9ee4ff69e522e9339f770c\">53ab426</a>\n- <a href=\"https://github.com/prinzpiuz/dotfiles/commit/c0950cd3f2893585f9b96d643551bd9fd119abc5\">c0950cd</a>\n- <a href=\"https://github.com/prinzpiuz/dotfiles/commit/787a0c36f51a864819637f83d26f77958f27ec91\">787a0c3</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.github.io/commit/6614b254f2b66b893b0cef8bf7bb55e5555401ee\">6614b25</a>\n- <a href=\"https://github.com/prinzpiuz/Druv-Setup/commit/364b86231fe096a194aac90dc5e8277c89e5d5e6\">364b862</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/dotfiles/commit/01ce51bd6a3d92eb06b54775860bb2c8267d7838\">01ce51b</a>\n- <a href=\"https://github.com/prinzpiuz/BloTils/commit/f3c2e49439580221089315888370aed1e8cc95dc\">f3c2e49</a>\n- <a href=\"https://github.com/prinzpiuz/BloTils/commit/6e4c06af8e70307aa07efe928593d4f77f2f00a3\">6e4c06a</a>\n- <a href=\"https://github.com/prinzpiuz/System-Scripts/commit/288bdb37d56498622afe031aefa6a8069d99de60\">288bdb3</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.github.io/commit/f233dd16a99c97010486d753e8da6f6fe909bdd0\">f233dd1</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/commit/82286786aafa146e0cf94e6d66ee3acee4a4006d\">8228678</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/commit/fba0555027d319fd34cbfa2925e97a20507e3b86\">fba0555</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.github.io/commit/1042caf0601a8d97dc140cb5541a02364e1c9c30\">1042caf</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/commit/0475c7bcedae9c3f2e6e277d6b1f22dda688c910\">0475c7b</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/commit/2a32403cde9ef5d35722c8d28f59cfb82e94fb6f\">2a32403</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/commit/5f1e275fdcfbb9cb7e7802600c62a253c93c4e4d\">5f1e275</a>\n- <a href=\"https://github.com/prinzpiuz/prinzpiuz.in/commit/fe80d72b81ea676b8bb9d3af08edf95bc12e888d\">fe80d72</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
